@@ -1,7 +1,11 @@
 [package]
-name = "md_to_html"
+name = "yamth"
 version = "0.1.0"
 edition = "2024"
+description = "A fast Markdown to HTML converter with live reload"
+license = "MIT"
+repository = "https://github.com/bouDeScotch/md_to_html"
+readme = "README.md"
 
 [dependencies]
 regex = "1"
