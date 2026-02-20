@@ -2,7 +2,7 @@
 name = "yamth"
 version = "0.1.0"
 edition = "2024"
-description = "A fast Markdown to HTML converter with live reload"
+description = "Yet Another Markdown To HTML, A fast Markdown to HTML converter with live reload"
 license = "MIT"
 repository = "https://github.com/bouDeScotch/md_to_html"
 readme = "README.md"
