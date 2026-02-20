@@ -37,6 +37,12 @@ cargo build --release
 
 The binary will be at `target/release/md_to_html`.
 
+It also possible to install it directly using crates by executing
+```
+cargo install yamth
+yamth <input.md> <output.html> [OPTIONS]
+```
+
 ## Usage
 
 ```

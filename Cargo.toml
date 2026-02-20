@@ -1,6 +1,6 @@
 [package]
 name = "yamth"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Yet Another Markdown To HTML, A fast Markdown to HTML converter with live reload"
 license = "MIT"
